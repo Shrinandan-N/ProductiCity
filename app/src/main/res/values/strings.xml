@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PioneerHacksApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_timer_page">TimerPage</string>
+    <string name="Stats">Stats</string>
+    <string name="City">City</string>
+    <string name="Home">Home</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="buildmessage">Building Started! Stay Focused!</string>
+    <string name="stuckmessage">You Stopped! There is no going back!</string>
+    <string name="resetMessage">You did not focus the whole time! Try to be more productive next time!</string>
+</resources>
